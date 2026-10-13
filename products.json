@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "brand": "Lenovo",
+    "category": "gaming",
+    "name": "Lenovo LOQ 15",
+    "price": 14500000,
+    "cpu": "Intel Core i7-13650HX",
+    "ram": "16 GB DDR5",
+    "storage": "512 GB NVMe",
+    "gpu": "NVIDIA RTX 4060 8GB",
+    "display": "15.6\" FHD 144Hz",
+    "battery": "60 Wh",
+    "weight": "2.4 kg",
+    "os": "Windows 11",
+    "warranty_months": 12,
+    "stock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=900",
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=900"
+    ],
+    "desc": {
+      "uz": "O'yinlar va og'ir dasturlar uchun kuchli noutbuk. Yaxshi sovutish tizimi.",
+      "ru": "Мощный ноутбук для игр и тяжёлых программ. Эффективное охлаждение."
+    }
+  },
+  {
+    "id": 2,
+    "brand": "ASUS",
+    "category": "gaming",
+    "name": "ASUS TUF Gaming F15",
+    "price": 16900000,
+    "cpu": "Intel Core i7-12700H",
+    "ram": "16 GB DDR4",
+    "storage": "1 TB NVMe",
+    "gpu": "NVIDIA RTX 4060 8GB",
+    "display": "15.6\" FHD 144Hz",
+    "battery": "56 Wh",
+    "weight": "2.2 kg",
+    "os": "Windows 11",
+    "warranty_months": 12,
+    "stock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=900"
+    ],
+    "desc": {
+      "uz": "Mustahkam korpus (military-grade) va yuqori tezlikdagi ekran.",
+      "ru": "Прочный корпус (military-grade) и быстрый экран."
+    }
+  },
+  {
+    "id": 3,
+    "brand": "Apple",
+    "category": "ultra",
+    "name": "MacBook Air 13 M2",
+    "price": 15800000,
+    "cpu": "Apple M2 (8 yadro)",
+    "ram": "8 GB",
+    "storage": "256 GB SSD",
+    "gpu": "Apple M2 10-core GPU",
+    "display": "13.6\" Liquid Retina",
+    "battery": "52.6 Wh (18 soatgacha)",
+    "weight": "1.24 kg",
+    "os": "macOS",
+    "warranty_months": 12,
+    "stock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=900",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=900"
+    ],
+    "desc": {
+      "uz": "Yengil, sokin va juda uzoq ishlaydigan noutbuk. Ish va ijod uchun ideal.",
+      "ru": "Лёгкий, бесшумный ноутбук с очень долгой автономностью. Идеален для работы и творчества."
+    }
+  },
+  {
+    "id": 4,
+    "brand": "HP",
+    "category": "office",
+    "name": "HP 255 G9",
+    "price": 6200000,
+    "cpu": "AMD Ryzen 5 5625U",
+    "ram": "8 GB DDR4",
+    "storage": "256 GB NVMe",
+    "gpu": "AMD Radeon Graphics",
+    "display": "15.6\" FHD IPS",
+    "battery": "41 Wh",
+    "weight": "1.74 kg",
+    "os": "FreeDOS",
+    "warranty_months": 12,
+    "stock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900"
+    ],
+    "desc": {
+      "uz": "Ofis va kundalik ishlar uchun ishonchli va hamyonbop noutbuk.",
+      "ru": "Надёжный и доступный ноутбук для офиса и повседневных задач."
+    }
+  },
+  {
+    "id": 5,
+    "brand": "Acer",
+    "category": "student",
+    "name": "Acer Aspire 3",
+    "price": 4900000,
+    "cpu": "Intel Core i3-1215U",
+    "ram": "8 GB DDR4",
+    "storage": "256 GB SSD",
+    "gpu": "Intel UHD Graphics",
+    "display": "15.6\" FHD",
+    "battery": "40 Wh",
+    "weight": "1.7 kg",
+    "os": "Windows 11",
+    "warranty_months": 12,
+    "stock": true,
+    "images": [
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=900"
+    ],
+    "desc": {
+      "uz": "Talabalar va maktab o'quvchilari uchun arzon va qulay variant.",
+      "ru": "Недорогой и удобный вариант для студентов и школьников."
+    }
+  },
+  {
+    "id": 6,
+    "brand": "Lenovo",
+    "category": "ultra",
+    "name": "Lenovo ThinkPad E14",
+    "price": 11200000,
+    "cpu": "Intel Core i5-1335U",
+    "ram": "16 GB DDR4",
+    "storage": "512 GB NVMe",
+    "gpu": "Intel Iris Xe",
+    "display": "14\" FHD IPS",
+    "battery": "47 Wh",
+    "weight": "1.41 kg",
+    "os": "Windows 11 Pro",
+    "warranty_months": 12,
+    "stock": false,
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900"
+    ],
+    "desc": {
+      "uz": "Biznes uchun mustahkam va qulay klaviaturali noutbuk.",
+      "ru": "Надёжный бизнес-ноутбук с удобной клавиатурой."
+    }
+  }
+]
